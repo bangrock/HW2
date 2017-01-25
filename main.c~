@@ -39,8 +39,6 @@ int main()
 		printf("Random Node check %u, Answer %g \n",N,out1[r]);
 	}
 	
-	
-	
-	
+		
 	
 }

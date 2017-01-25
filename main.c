@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include <stdlib.h> 
 #include "kernel.h"
-#define N 32
+#define N 64
 int main()
 {
 	float *u2 = (float*) malloc(N*sizeof(float));
